@@ -2,6 +2,7 @@
   "manifest_version": 2,
 
   "name": "VSTS box lines",
+  "author": "Otto Streifel",
   "description": "This extension draws lines around the boxes in the new form on Visual Studio Team Services",
   "version": "1.0",
   "permissions": [

@@ -1,0 +1,1 @@
+On Visual Studio Team Services work item forms with lots of fields may be difficult to navigate without borders around the text and dropdown input elements. This extension adds those borders to the inputs.
