@@ -1,0 +1,3 @@
+div.combo:not(:hover):not(.focus) {
+    border-color: #eaeaea;
+}
